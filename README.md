@@ -7,6 +7,6 @@
 * [ ] Read Books - 0 / 5
 
 ## Others
-* Shower on Saturdays & Sundays
+* Shower ever Saturdays & Sundays
 * Start blogging
 * Create personal site
