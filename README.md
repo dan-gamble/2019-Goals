@@ -1,8 +1,8 @@
 # 2019
 
 ## Trackables
-* [ ] Poker Hands - 5,178 / 200,000
-* [ ] Gym Sessions - 1 / 100
+* [ ] Poker Hands - 8,561 / 200,000
+* [ ] Gym Sessions - 3 / 100
 * [ ] Track MFP Days - 2 / 250
 * [ ] Read Books - 0 / 5
 
